@@ -1,0 +1,12 @@
+# Global
+**/.DS_Store
+.vscode
+
+# Python
+venv
+
+# Flask
+Flask/__pycache__
+
+# Godot
+Godot/.godot
