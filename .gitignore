@@ -4,11 +4,14 @@
 
 # Python
 venv
+**/__pycache__
 
 # Flask
-Flask/__pycache__
+
 
 # Godot
 Godot/.godot
 
 .VSCodeCounter
+Web/Vue/node_modules
+Vue/node_modules

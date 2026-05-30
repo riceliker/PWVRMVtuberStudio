@@ -10,9 +10,8 @@
 PW VRM Vtuber Studio is an **open source** software. You just only open you camera, It will catch your face action and synchronize to VRM Character in Godot Game Engine.
 
 ## What environment does it want?
-Python: 3.12+
--> Flask 3.1.3
-->
-.NET: 9.0+
--> Godot 4.6
+Python: 3.13.7   
+-> Flask 3.1.3  
+.NET: 9.0+  
+-> Godot 4.6.2.stable.mono  
 
